@@ -1,3 +1,3 @@
 # Repo-sync
 
-initial change
+initial changes are applied to github server
